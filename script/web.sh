@@ -1,2 +1,2 @@
 cd /usr/XBackOffice/xnearobserver
-pythom manage.py runserver 0.0.0.0:9001
+python manage.py runserver 0.0.0.0:9001
