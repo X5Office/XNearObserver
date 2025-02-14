@@ -1,0 +1,1 @@
+cd /usr/XbackOffice/xnearobserver
